@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478507005641",
+    "project_id": "phonenumberfirebase-e2071",
+    "storage_bucket": "phonenumberfirebase-e2071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478507005641:android:d998464d43a20703d7ff18",
+        "android_client_info": {
+          "package_name": "com.example.phonenumberfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478507005641-1lpqpuva5ao48kkru66ahvac7c6fik9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phonenumberfirebase",
+            "certificate_hash": "99720c9073152bb94bed73a85ece84704c46364b"
+          }
+        },
+        {
+          "client_id": "478507005641-k2377cffrnk2ei8ps7r470dgibvvofkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfnByQ4n_iA3hn__br3e2Od0MvSvSODaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478507005641-k2377cffrnk2ei8ps7r470dgibvvofkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
